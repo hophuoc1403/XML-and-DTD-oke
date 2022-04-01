@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE houses SYSTEM "student-valid.dtd" [
+
+]>
+<houses>
+    <house>
+        <room>
+            <dimensions>
+                <width></width>
+                <length />
+            </dimensions>
+            <windows>
+                <window>
+                    <elevation></elevation>
+                    <width></width>
+                    <height></height>
+                </window>
+            </windows>
+            <furniture></furniture>
+            
+        </room>
+    </house>
+</houses>
